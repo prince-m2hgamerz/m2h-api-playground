@@ -94,7 +94,7 @@ export default function Sidebar({ onSelectRequest, onSelectHistory, onNewRequest
     <div className="w-full lg:w-80 bg-gray-50 border-r border-gray-200 flex flex-col h-full">
       <div className="p-4 border-b border-gray-200 bg-white">
         <div className="flex items-center justify-between mb-4">
-          <h1 className="text-xl font-bold text-gray-900">Postman</h1>
+          <h1 className="text-xl font-bold text-gray-900">M2H Postman</h1>
         </div>
         <button
           onClick={onNewRequest}
